@@ -19,7 +19,6 @@ int isMacroNow(char* str2);
 int isComand (char* str , int position);
 void towOp(int noOfComand,char* str, int plase);
 int spaces(char* str,int i);
-/*C36B0AC*/
 char* PdecimalToBinary(int num,char*,int);
 char* NdecimalToBinary(int num,char*,int);
 void miunOO (int i,char* str ,char* firstWord, char* secondWord ,char* thirdWord,int,char* );
@@ -36,7 +35,7 @@ char* isTatelOf (char* str);
 char* isTatelOf2 (char* str);
 char* convert (int, char* TTNum);
 int convertTOdecimal(char* str);
-int isTatelOf3 (char* str);
+int isTatelOf3 /*C36B0AC*/(char* str);
 char** titels;
 char** ENarry;
 char** EXarry;
