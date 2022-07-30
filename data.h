@@ -19,6 +19,7 @@ int isMacroNow(char* str2);
 int isComand (char* str , int position);
 void towOp(int noOfComand,char* str, int plase);
 int spaces(char* str,int i);
+/*C36B0AC*/
 char* PdecimalToBinary(int num,char*,int);
 char* NdecimalToBinary(int num,char*,int);
 void miunOO (int i,char* str ,char* firstWord, char* secondWord ,char* thirdWord,int,char* );
