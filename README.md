@@ -1,5 +1,5 @@
 # mamn14-2022
-This project is a mission from the Open University of Israel.
+This project is a task from the Open University of Israel.
 The project is actually an assembler that receives input from the user as a command line argument
  a file containing assembly code. The program checks whether there are macro definitions 
 in the file and interprets them, then encodes the code into machine code in base 2 
